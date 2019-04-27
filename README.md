@@ -1,5 +1,7 @@
 # assignment-6-GifTastic
 
+https://smarieimperial.github.io/assignment-6-GifTastic/
+
 ### Overview
 
 In this assignment, you'll use the GIPHY API to make a dynamic web page that populates with gifs of your choice. To finish this task, you must call the GIPHY API and use JavaScript and jQuery to change the HTML of your site.
@@ -20,10 +22,6 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 2. **[Watch the demo video](homework_demo.mov)**
 
    * You should have a high-level understanding of how this assignment works before attempting to code it.
-
-### Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 
 ### Instructions
 
@@ -72,11 +70,6 @@ Attempt to complete homework assignment as described in instructions. If unable 
    * This should persist even when they select or add a new topic.
    * If you are looking for a major challenge, look into making this section persist even when the page is reloaded(via localStorage or cookies).
 
-### Reminder: Submission on BCS
-
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
-
-- - -
 
 ### Create a README.md
 
